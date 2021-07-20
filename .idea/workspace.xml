@@ -21,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1vZFdWK4p2KPamrjSwXJVbQzVFt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,9 +35,14 @@
     <property name="GO_FMT" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,11 +65,19 @@
     <MESSAGE value="v1.0.0: commit reverse method" />
     <option name="LAST_COMMIT_MESSAGE" value="v1.0.0: commit reverse method" />
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
   <component name="WindowStateProjectService">
     <state x="254" y="-968" key="CommitChangelistDialog2" timestamp="1626761896791">
       <screen x="-306" y="-1080" width="1920" height="1040" />
     </state>
     <state x="254" y="-968" key="CommitChangelistDialog2/0.0.1366.728/-306.-1080.1920.1040@-306.-1080.1920.1040" timestamp="1626761896791" />
+    <state x="155" y="-918" key="SettingsEditor" timestamp="1626763061545">
+      <screen x="-306" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="155" y="-918" key="SettingsEditor/0.0.1366.728/-306.-1080.1920.1040@-306.-1080.1920.1040" timestamp="1626763061545" />
     <state x="246" y="-838" key="Vcs.Push.Dialog.v2" timestamp="1626761898587">
       <screen x="-306" y="-1080" width="1920" height="1040" />
     </state>
