@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ab3337-f3d1-4202-be1e-58516cc9654d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reverse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -49,10 +51,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="v1.0.0: commit reverse method" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.0: commit reverse method" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="-968" key="CommitChangelistDialog2" timestamp="1626761880176">
+    <state x="254" y="-968" key="CommitChangelistDialog2" timestamp="1626761896791">
       <screen x="-306" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="254" y="-968" key="CommitChangelistDialog2/0.0.1366.728/-306.-1080.1920.1040@-306.-1080.1920.1040" timestamp="1626761880176" />
+    <state x="254" y="-968" key="CommitChangelistDialog2/0.0.1366.728/-306.-1080.1920.1040@-306.-1080.1920.1040" timestamp="1626761896791" />
+    <state x="246" y="-838" key="Vcs.Push.Dialog.v2" timestamp="1626761898587">
+      <screen x="-306" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="246" y="-838" key="Vcs.Push.Dialog.v2/0.0.1366.728/-306.-1080.1920.1040@-306.-1080.1920.1040" timestamp="1626761898587" />
   </component>
 </project>
